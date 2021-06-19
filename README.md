@@ -32,7 +32,7 @@
     ------------------------------------ 
     This is a Car parked in Lane Number  0,Spot Number 0 Level 1 with Vehicle Number 5567 from Bangkok
     ------------------------------------ 
-    Vehicle Number 1234 from Bangkok stop in parking
+    Vehicle Number 1234 from Bangkok stoped in parking
     ------------------------------------------ 
     Spot freed from  Level 1 and exited  5567 of Bangkok
     Available Spots in the current level :2
@@ -41,7 +41,7 @@
     ------------------------------------ 
     This is a Motorcycle parked in Lane Number  0,Spot Number 0 Level 2 with Vehicle Number 0789 from khonkaen
     ------------------------------------ 
-    Vehicle Number 0789 from khonkaen stop in parking
+    Vehicle Number 0789 from khonkaen stoped in parking
     
     
 
