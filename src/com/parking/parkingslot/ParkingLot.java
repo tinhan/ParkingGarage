@@ -54,7 +54,7 @@ public class ParkingLot{
     public boolean isDuplicate(Vehicle vehicle){
         ArrayList<String> vehicleList = this.ProvincetoVehicle.get(vehicle.province);
         if (null != vehicleList && vehicleList.contains(vehicle.licensePlate)) {
-            System.out.println("Vehicle Number " + vehicle.licensePlate + " from " + vehicle.province + " stop in parking");
+            System.out.println("Vehicle Number " + vehicle.licensePlate + " from " + vehicle.province + " stoped in parking");
             return true;
         }
         return false;
