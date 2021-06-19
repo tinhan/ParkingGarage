@@ -12,8 +12,11 @@
 
 #### Set up and run local
  1). Clone repo from https://github.com/tinhan/ParkingGarage.git
+ 
  2). Open project in IDE.
+ 
  3). Run Main.java for start project.
+ 
 
 #### Result of ParkingGarage program.
     
